@@ -20,3 +20,11 @@ A simple bible scraper written in python.
 # :card_file_box: Bible Source
 https://www.biblegateway.com/
 
+# 🌎 Languages
+- [x] English
+- [ ] Japanese
+
+# 📍 Roadmap
+* A github page for quick multi-lingal search
+* Japanese support
+* Add a step-by-step tutorial notebook
