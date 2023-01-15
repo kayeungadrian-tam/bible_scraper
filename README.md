@@ -27,3 +27,4 @@ https://www.biblegateway.com/
 # 📍 Roadmap
 * A github page for quick multi-lingal search
 * Japanese support
+* Add a step-by-step tutorial notebook
