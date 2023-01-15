@@ -23,3 +23,7 @@ https://www.biblegateway.com/
 # 🌎 Languages
 - [x] English
 - [ ] Japanese
+
+# 📍 Roadmap
+* A github page for quick multi-lingal search
+* Japanese support
