@@ -68,6 +68,7 @@ new_testament = [
     "2%20Timothy",
     "Titus",
     "Philemon",
+    
     "Hebrews",
     "James",
     "1%20Peter",
